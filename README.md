@@ -4,9 +4,9 @@
 
 | Name                  | Student ID |
 |-----------------------|------------|
-| Simranjit Singh Dulku | 03121105   |
-| Fotis Monanteros      | 03121912   |
-| Athanasios Markou     | 03123618   |
+| Simranjit Singh Dulku |    |
+| Fotis Monanteros      |    |
+| Athanasios Markou     |    |
 
 ---
 
